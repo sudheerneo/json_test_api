@@ -1,0 +1,67 @@
+{
+  "notificationId": 1541,
+  "recruiterId": 524554,
+  "totalVacancies": 245,
+  "recruiterName": "Nagarjuna University",
+  "recruitersIntro": "Doctor jobs coming under Indian postal department on 12july. Check if any jobs came under this notifications at bottom",
+  "recruiterImage": "https://loremflickr.com/140/140?random=5",
+  "jobsContainer": [
+    {
+      "jobId": 1,
+      "jobName": "Doctor",
+      "jobNotfication": {"id": 1541, "totalJobs": 6, "recruiterId": 524554},
+      "jobBy": "Nagarjuna University",
+      "jobDep": "Fresher or Experienced",
+      "jobImage": "https://loremflickr.com/140/140?random=10",
+      "jobLikes": 245,
+      "jobViews": 354,
+      "jobIntro": "Doctor jobs coming under Indian postal department on 12july. Check if any jobs came under this notifications at bottom",
+      "jobQual": {
+        "level": "Graduation",
+        "levelDetail": ["Bsc - Maths", "Bcom - Computers", "Bca - Computers"]
+      },
+      "jobSalary": {"min": 45000, "max": 76000},
+      "JobAgeLimits": ["SC - 35", "ST - 37", "OBC - 30", "BC - 30", "G - 30"],
+      "JobCategories": ["SC - 5", "ST - 3", "OBC - 12", "BC - 20", "G - 126"],
+      "JobVacancies": 285
+    },
+    {
+      "jobId": 2,
+      "jobName": "Architect",
+      "jobNotfication": {"id": 1541, "totalJobs": 6, "recruiterId": 524554},
+      "jobBy": "Nagarjuna University",
+      "jobDep": "Fresher or Experienced",
+      "jobImage": "https://loremflickr.com/140/140?random=13",
+      "jobLikes": 245,
+      "jobViews": 354,
+      "jobIntro": "Doctor jobs coming under Indian postal department on 12july. Check if any jobs came under this notifications at bottom",
+      "jobQual": {
+        "level": "Graduation",
+        "levelDetail": ["Bsc - Maths", "Bcom - Computers", "Bca - Computers"]
+      },
+      "jobSalary": {"min": 45000, "max": 76000},
+      "JobAgeLimits": ["SC - 35", "ST - 37", "OBC - 30", "BC - 30", "G - 30"],
+      "JobCategories": ["SC - 5", "ST - 3", "OBC - 12", "BC - 20", "G - 126"],
+      "JobVacancies": 285
+    },
+    {
+      "jobId": 3,
+      "jobName": "Computer Operator",
+      "jobNotfication": {"id": 1541, "totalJobs": 6, "recruiterId": 524554},
+      "jobBy": "Nagarjuna University",
+      "jobDep": "Fresher or Experienced",
+      "jobImage": "https://loremflickr.com/140/140?random=15",
+      "jobLikes": 245,
+      "jobViews": 354,
+      "jobIntro": "Doctor jobs coming under Indian postal department on 12th july. Check if any jobs came under this notifications at bottom",
+      "jobQual": {
+        "level": "Graduation",
+        "levelDetail": ["Bsc - Maths", "Bcom - Computers", "Bca - Computers"]
+      },
+      "jobSalary": {"min": 45000, "max": 76000},
+      "JobAgeLimits": ["SC - 35", "ST - 37", "OBC - 30", "BC - 30", "G - 30"],
+      "JobCategories": ["SC - 5", "ST - 3", "OBC - 12", "BC - 20", "G - 126"],
+      "JobVacancies": 285
+    }
+  ]
+}
