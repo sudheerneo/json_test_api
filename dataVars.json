@@ -1,0 +1,78 @@
+{
+  "stateCode": {
+    "Andaman and Nicobar Islands": "AN",
+    "Andhra Pradesh": "AP",
+    "Arunachal Pradesh": "AR",
+    "Assam": "AS",
+    "Bihar": "BR",
+    "Chandigarh": "CH",
+    "Chhattisgarh": "CT",
+    "Dadra and Nagar Haveli": "DN",
+    "Daman and Diu": "DD",
+    "Delhi": "DL",
+    "Goa": "GA",
+    "Gujarat": "GJ",
+    "Haryana": "HR",
+    "Himachal Pradesh": "HP",
+    "Jammu and Kashmir": "JK",
+    "Jharkhand": "JH",
+    "Karnataka": "KA",
+    "Kerala": "KL",
+    "Lakshadweep": "LD",
+    "Madhya Pradesh": "MP",
+    "Maharashtra": "MH",
+    "Manipur": "MN",
+    "Meghalaya": "ML",
+    "Mizoram": "MZ",
+    "Nagaland": "NL",
+    "Odisha": "OR",
+    "Puducherry": "PY",
+    "Punjab": "PB",
+    "Rajasthan": "RJ",
+    "Sikkim": "SK",
+    "Tamil Nadu": "TN",
+    "Telangana": "TG",
+    "Tripura": "TR",
+    "Uttar Pradesh": "UP",
+    "Uttarakhand": "UK",
+    "West Bengal": "WB"
+  },
+  "headerNames": [
+    "postedDate",
+    "recBoard",
+    "postNameTitle",
+    "qualification",
+    "advtNo",
+    "lDate",
+    "link"
+  ],
+  "chromeOptions": {
+    "Installed": {
+      "executablePath": "/usr/bin/google-chrome",
+      "userDataDir": "/usr/bin/google-chrome/Default",
+      "headless": true,
+      "args": [
+        "--disable-infobars",
+        "--no-sandbox",
+        "--user-agent='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36'"
+      ]
+    },
+    "New": {
+      "headless": false,
+      "args": [
+        "--start-maximized",
+        "--disable-infobars",
+        "--no-sandbox",
+        "--user-agent='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36'"
+      ]
+    }
+  },
+  "workingTab": {
+    "url": "https://chat.openai.com/c/4c2bb697-0b8d-4f9b-ab32-c186e876f792",
+    "typer": "#prompt-textarea",
+    "button": "button[data-testid='send-button']",
+    "clickBtn": "'[data-testid='send-button']'",
+    "cookieFilePath": "./data/cookies.json"
+  },
+  "responseFile": "data/response.html"
+}

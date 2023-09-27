@@ -1,0 +1,16 @@
+[
+  {
+    "recruiterName": "ICCI Bank",
+    "recruiterId": 1,
+    "recruiterIntro": "ICICI Bank | Details, Profile, Overview- FincashIndustrial Credit and Investment Corporation of India (ICICI) Bank Limited is an Indian multinational banking and financial services company. It has its corporate office in Mumbai",
+    "recruiterNotifications": ["notifi1", "notifi2"],
+    "recruiterImage": "https://loremflickr.com/140/140?random=50"
+  },
+  {
+    "recruitername": "CBI",
+    "recruiterId": 1,
+    "recruiterIntro": "CBI  | Details, Profile, Overview- FincashIndustrial Credit and Investment Corporation of India (ICICI) Bank Limited is an Indian multinational banking and financial services company. It has its corporate office in Mumbai",
+    "recruitereNotifications": ["notifi1", "notifi2"],
+    "recruiterImage": "https://loremflickr.com/140/140?random=51"
+  }
+]
